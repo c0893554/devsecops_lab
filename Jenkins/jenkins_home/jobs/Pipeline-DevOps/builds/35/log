@@ -1,0 +1,121 @@
+Started by user unknown or anonymous
+[8mha:////4NC4q1XbQ79RiYjQmh4ApTGHKOmIS+8JmOwO3QhpJZlcAAAAoh+LCAAAAAAAAP9tjTEOwjAQBM8BClpKHuFItIiK1krDC0x8GCfWnbEdkooX8TX+gCESFVvtrLSa5wtWKcKBo5UdUu8otU4GP9jS5Mixv3geZcdn2TIl9igbHBs2eJyx4YwwR1SwULBGaj0nRzbDRnX6rmuvydanHMu2V1A5c4MHCFXMWcf8hSnC9jqYxPTz/BXAFEIGsfuclm8zQVqFvQAAAA==[0m[Pipeline] Start of Pipeline
+[8mha:////4E3Dc/V+XwRsmGjEGBBkGYP2xSIoF4bvf4kgY0BFWZsMAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycohUghExsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jduZBmjwAAAAA==[0m[Pipeline] node
+Running on [8mha:////4AFIrxBMFhzTcVhopoUd3SUkOAbDfBpUFrLJII2wOp8WAAAAoR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAz2EgZR/eT83ILSktQifY2k0sycEt3MPE19AHHxbH3KAAAA[0mJenkins in /var/jenkins_home/workspace/Pipeline-DevOps
+[8mha:////4NNAE0oijhp2y30Kr4eSLxn9mLFlJ9SOsjVzhDzonX2YAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0gA0xsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jfoP95RwAAAAA==[0m[Pipeline] {
+[8mha:////4Jyrrro8+9aXW6BCG5UQymYLbkdQ0ptaKCMha+t2HMljAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0gQkxsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jc09154wAAAAA==[0m[Pipeline] stage
+[8mha:////4D8a0KaKxn7jA1GooVNJVriubC+2tckKH6Motrbxs8nXAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0ggUxsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jek7ggRwAAAAA==[0m[Pipeline] { (Clean Workspace)
+[8mha:////4Be1GzDL6abhlnJt+hrPfuLgkW+ryFHWgl+YIjQzYP7qAAAAoh+LCAAAAAAAAP9tjTEOAiEURD9rLGwtPQTbaWGsbAmNJ0AWEZb8zwLrbuWJvJp3kLiJlZNMMm+a93rDOic4UbLcG+wdZu14DKOti0+U+lugiXu6ck2YKRguzSSpM+cFJRUDS1gDKwEbgzpQdmgLbIVXD9UGhba9lFS/o4DGdQM8gYlqLiqVL8wJdvexy4Q/z18BzLEA29ce4gfg7KmOvAAAAA==[0m[Pipeline] deleteDir
+[8mha:////4Be7p3zdf0ytszQZbGJzqAbTTWysD19WAacPV0R7kCTBAAAAoh+LCAAAAAAAAP9tjTEOAiEURD9rLGwtPQTbGRNjZUtoPAGyiLDkfxZYdytP5NW8g8RNrJxkknnTvNcb1jnBiZLl3mDvMGvHYxhtXXyi1N8CTdzTlWvCTMFwaSZJnTkvKKkYWMIaWAnYGNSBskNbYCu8eqg2KLTtpaT6HQU0rhvgCUxUc1GpfGFOsLuPXSb8ef4KYI6xADvU7j9Dg2gqvAAAAA==[0m[Pipeline] }
+[8mha:////4B1n0x5KXIcJ/lbBko43epKwSyQteua0ocOOTmtHuxA9AAAAoh+LCAAAAAAAAP9tjTEOAiEURD9rLGwtPQRbWRhjZUtoPAGyiLDkfxZYdytP5NW8g8RNrJxkknnTvNcb1jnBiZLl3mDvMGvHYxhtXXyi1N8CTdzTlWvCTMFwaSZJnTkvKKkYWMIaWAnYGNSBskNbYCu8eqg2KLTtpaT6HQU0rhvgCUxUc1GpfGFOsLuPXSb8ef4KYI6xADvU7j9J+wGOvAAAAA==[0m[Pipeline] // stage
+[8mha:////4GL1JLAxg8Odmv4PmsFbbsGT5pO1iz5d8HpnyGq/P7E+AAAAph+LCAAAAAAAAP9tjTEOwjAQBM9BKWgpeYQDEh2iorXc8AITG+PEugv2haTiRXyNPxCIRMVWOyut5vmCMic4UPKycdgGzHWQXez91ORAqb1EGmRDZ1kTZopOajdosu44oyZ2MEcUsFCwdFhHygE9w0o15m6qaNBXJ07TtldQBHuDBwg1mdkk/sKYYH3tbSb8ef4KYOwYxI6h2G4+x/INtuQqUcEAAAA=[0m[Pipeline] stage
+[8mha:////4J4DF1Bn4roJDVbwLe5a9VSQwg6T/damGfdbGIgX3xkOAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+DOrAycoiUzoiJNerCCUITQtLo/zZJSSdOxNW4Ay2VmPBg2Zas93pDGQOcKBjuNHYWY2t570czJ54pdDdPmTu68pYwkte80bkhpc9rbShpWFUw2AjYamw9RYsmwU44+ZCVl2iqSwrzdhTArBrgCYWYyUmG9C1TgP19VJHwx/kLgKlPwOrDYvXyLD8BobDcwgAAAA==[0m[Pipeline] { (Checkout)
+[8mha:////4IMK/MP/zgfkR040TceBduXTy5B0yI7Wnz17qeBPoH8OAAAAph+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUZUVMrFEWThCaEJJG/7dJSjpxIq7GHWipxIQHy7ZkvdcbqhjgRMEwp7GzGFvLej+aObFMobt5yszRlbWEkbxmQmdBSp/XKihpWFWUsOGw1dh6ihZNgh138iFrL9HUlxTm7cihtGqAJxR8JicZ0rdMAfb3UUXCH+cvAKY+Qdk0ix2WZ/UBbwyqm8IAAAA=[0m[Pipeline] sshagent
+[ssh-agent] Using credentials git
+$ ssh-agent
+SSH_AUTH_SOCK=/tmp/ssh-XXXXXXUSoLo8/agent.1953
+SSH_AGENT_PID=1958
+Running ssh-add (command line suppressed)
+Identity added: /var/jenkins_home/workspace/Pipeline-DevOps@tmp/private_key_5620415710931470727.key (c0893554@mylambton.ca)
+[ssh-agent] Started.
+[8mha:////4A2sp4kN5LSY3qaMIl90X3sYem4aZI8YJEa1Ek69p2knAAAAph+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUwIiYukZZOEFoQkgb/V9+UtqJE3E17kBLJSY8WLYl673eUESGE7ETjcXWY6y96ELvpiQG4vYaaBANXURNGClYoeygyNhqqYqShUVZDisJa4t1oOjRJdjIRj90GTS68px42o4Scm/u8IRMTuSkOX3LyLC99SYS/jh/ATB2CfLdfrbD/Cw+y7kUycIAAAA=[0m[Pipeline] {
+[8mha:////4GJ6t0kUUcvMjo4wkC5aNqaWi2CRIGLKWPylBcj4bPSAAAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUCDbE1DXKwglCE0La6P/yk9JOnIircQdaKjHhwbItWe/1hiIynIidaCy2HmPtRRd6NyUxELfXQINo6CJqwkjBCmUHRcZWS1WULCzKclhJWFusA0WPLsFGNvqhy6DRlefE03aUkHtzhydkciInzelbRobtrTeR8Mf5C4CxS5Dv9rMd5mfxAbNWnxXCAAAA[0m[Pipeline] script
+[8mha:////4OLmUuQVxDAHqveGXi2Ic7oia3F12zrchY54OG82EAQ2AAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUSDAhpq5RFk4QmhDSRv+Xn5R24kRcjTvQUokJD5ZtyXqvNxSR4UTsRGOx9RhrL7rQuymJgbi9BhpEQxdRE0YKVig7KDK2WqqiZGFRlsNKwtpiHSh6dAk2stEPXQaNrjwnnrajhNybOzwhkxM5aU7fMjJsb72JhD/OXwCMXYJ8t5/tMD+LD5WQ+PfCAAAA[0m[Pipeline] {
+[8mha:////4KdNjEY5hvZaBEe/lEDa/A1kJ390Mx6N5qcwbcXEhceAAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiCmgQVVrLDS8wsTFOrDtjOyQVL+Jr/IFAJCq2WO1sM88XLFOEI0eLraHOUWocBt/baeHAsbt4HrDlMzZMib1BaQbJ2tQzSs4G5hQlLASsDDWekyObYS1adVeVV2SrU47TdxBQOn2DBxRiMmcV8xfGCJtrrxPTz/NXAGPIUG53n9qHN7LjSKW+AAAA[0m[Pipeline] sh
++ git --version
+git version 2.39.2
+[8mha:////4G9/vV+b9rLWWGBCeEhn5RmcV7nBltiSqQyfM/xyDBQoAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiCkSBqNJabniBiY1xYt0Z2yGpeBFf4w8EIlGxxWpnm3m+YJkiHDlabA11jlLjMPjeTgsHjt3F84Atn7FhSuwNSjNI1qaeUXI2MKcoYSFgZajxnBzZDGvRqruqvCJbnXKcvoOA0ukbPKAQkzmrmL8wRthce52Yfp6/AhhDhnK7+9Q+vAHz0lO8vgAAAA==[0m[Pipeline] sh
++ git clone -v git@github.com:c0893554/devsecops_lab.git
+Cloning into 'devsecops_lab'...
+Updating files:   6% (590/8836)Updating files:   7% (619/8836)Updating files:   8% (707/8836)Updating files:   9% (796/8836)Updating files:  10% (884/8836)Updating files:  11% (972/8836)Updating files:  12% (1061/8836)Updating files:  13% (1149/8836)Updating files:  14% (1238/8836)Updating files:  15% (1326/8836)Updating files:  16% (1414/8836)Updating files:  17% (1503/8836)Updating files:  18% (1591/8836)Updating files:  19% (1679/8836)Updating files:  20% (1768/8836)Updating files:  21% (1856/8836)Updating files:  22% (1944/8836)Updating files:  22% (2026/8836)Updating files:  23% (2033/8836)Updating files:  24% (2121/8836)Updating files:  25% (2209/8836)Updating files:  26% (2298/8836)Updating files:  27% (2386/8836)Updating files:  28% (2475/8836)Updating files:  29% (2563/8836)Updating files:  30% (2651/8836)Updating files:  31% (2740/8836)Updating files:  32% (2828/8836)Updating files:  33% (2916/8836)Updating files:  34% (3005/8836)Updating files:  35% (3093/8836)Updating files:  36% (3181/8836)Updating files:  37% (3270/8836)Updating files:  38% (3358/8836)Updating files:  39% (3447/8836)Updating files:  40% (3535/8836)Updating files:  41% (3623/8836)Updating files:  42% (3712/8836)Updating files:  43% (3800/8836)Updating files:  44% (3888/8836)Updating files:  45% (3977/8836)Updating files:  46% (4065/8836)Updating files:  47% (4153/8836)Updating files:  48% (4242/8836)Updating files:  49% (4330/8836)Updating files:  50% (4418/8836)Updating files:  51% (4507/8836)Updating files:  52% (4595/8836)Updating files:  52% (4620/8836)Updating files:  53% (4684/8836)Updating files:  54% (4772/8836)Updating files:  55% (4860/8836)Updating files:  56% (4949/8836)Updating files:  57% (5037/8836)Updating files:  58% (5125/8836)Updating files:  59% (5214/8836)Updating files:  60% (5302/8836)Updating files:  61% (5390/8836)Updating files:  62% (5479/8836)Updating files:  63% (5567/8836)Updating files:  64% (5656/8836)Updating files:  65% (5744/8836)Updating files:  66% (5832/8836)Updating files:  67% (5921/8836)Updating files:  68% (6009/8836)Updating files:  69% (6097/8836)Updating files:  70% (6186/8836)Updating files:  71% (6274/8836)Updating files:  72% (6362/8836)Updating files:  73% (6451/8836)Updating files:  74% (6539/8836)Updating files:  75% (6627/8836)Updating files:  76% (6716/8836)Updating files:  77% (6804/8836)Updating files:  78% (6893/8836)Updating files:  79% (6981/8836)Updating files:  80% (7069/8836)Updating files:  81% (7158/8836)Updating files:  82% (7246/8836)Updating files:  82% (7289/8836)Updating files:  83% (7334/8836)Updating files:  84% (7423/8836)Updating files:  85% (7511/8836)Updating files:  86% (7599/8836)Updating files:  87% (7688/8836)Updating files:  88% (7776/8836)Updating files:  89% (7865/8836)Updating files:  90% (7953/8836)Updating files:  91% (8041/8836)Updating files:  92% (8130/8836)Updating files:  93% (8218/8836)Updating files:  93% (8227/8836)Updating files:  94% (8306/8836)Updating files:  95% (8395/8836)Updating files:  96% (8483/8836)Updating files:  97% (8571/8836)Updating files:  98% (8660/8836)Updating files:  99% (8748/8836)Updating files: 100% (8836/8836)Updating files: 100% (8836/8836), done.
+[8mha:////4Khp2gmHzQjRtb6RtpePtkDVKuwRM3w4nbr+6Xww/8qfAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiCiQkRJXWcsMLTGyME+vO2A5JxYv4Gn8gEImKLVY728zzBcsU4cjRYmuoc5Qah8H3dlo4cOwungds+YwNU2JvUJpBsjb1jJKzgTlFCQsBK0ON5+TIZliLVt1V5RXZ6pTj9B0ElE7f4AGFmMxZxfyFMcLm2uvE9PP8FcAYQoZyu//U7g1b0dOKvgAAAA==[0m[Pipeline] }
+[8mha:////4HfRf6gr1iqD6DucHDL/4QWLKbCyfpgyanXoETe9wzbCAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiJBqEqNJabniBiY1xYt0Z2yGpeBFf4w8EIlGxxWpnm3m+YJkiHDlabA11jlLjMPjeTgsHjt3F84Atn7FhSuwNSjNI1qaeUXI2MKcoYSFgZajxnBzZDGvRqruqvCJbnXKcvoOA0ukbPKAQkzmrmL8wRthce52Yfp6/AhhDyFBu95/avQFoMog2vgAAAA==[0m[Pipeline] // script
+[8mha:////4LgT2H0G1KxxSgjzCD1tKRitddvX40SDPboUyTL5GeJdAAAApB+LCAAAAAAAAP9tjTsOwjAQRDdBFLSUHGLDp0SpaC03nMAkxjixdoPt4FSciKtxBywiUTHFaN407/WGZfBQszfYaeothcbi4EaTFyb2/dVxwo4v2DAFdhqlTpJbfZpRctQwpyhhIWClqXEcLJkIa9Gph6qcIlOdo8/fUUBp2zs8oRDZHJWPX5g8bG5jG5h+nr8CmIYhQrnf5todPp7sC76+AAAA[0m[Pipeline] }
+$ ssh-agent -k
+unset SSH_AUTH_SOCK;
+unset SSH_AGENT_PID;
+echo Agent pid 1958 killed;
+[ssh-agent] Stopped.
+[8mha:////4NaFO9dam9bzh2qy5vSELrHNTxivYQdhhREMty06gMffAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPMJR0iIqWisNLzCxMU6sO8e+kFS8iK/xBywiUbHFamebeb1hmyKcKFrRGxwcps6J4Cebl5gpDjdPs+jpKjrCRN6I1swtaXNesSU2sKYoYSNhZ7DzlBxahr3s1UNVXqGtLhzzd5RQOj3CEwqZzawif2GJcLhPOhH+PH8FsITAUDZ1rrr5AK0PUAK+AAAA[0m[Pipeline] // sshagent
+[8mha:////4DbZIFn0Q6kx8fSWHYWOGYZpic9FooYd894qGB6kWDOpAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPMJR0iIqWisNLzCxMU6sO8e+kFS8iK/xBywiUbHFamebeb1hmyKcKFrRGxwcps6J4Cebl5gpDjdPs+jpKjrCRN6I1swtaXNesSU2sKYoYSNhZ7DzlBxahr3s1UNVXqGtLhzzd5RQOj3CEwqZzawif2GJcLhPOhH+PH8FsITAUDZNrrr+ALkszR2+AAAA[0m[Pipeline] }
+[8mha:////4EYyJSjasFShjsNJyz2BG/n8qFIb8j4VyWlELyQIZH0QAAAApB+LCAAAAAAAAP9tjTsOwjAQRDdBFLSUHGLDp0SpaC03nMAkxjixdoPt4FSciKtxBywiUTHFaN407/WGZfBQszfYaeothcbi4EaTFyb2/dVxwo4v2DAFdhqlTpJbfZpRctQwpyhhIWClqXEcLJkIa9Gph6qcIlOdo8/fUUBp2zs8oRDZHJWPX5g8bG5jG5h+nr8CmIYhQrk/5NptP4rPlqG+AAAA[0m[Pipeline] // stage
+[8mha:////4COpqQI4SAuWWIbpQu1/wAqR0pdCUOQMt5NznPknQ9/SAAAAph+LCAAAAAAAAP9tjTEOwjAQBM9BKWgpeYQjoXSIitZywwtMYowT6y7YF5KKF/E1/oAhEhVb7ay0mucLyhThQNHJzmLvMTVeDmF0ucmJYn8JNMmOzrIhTBSs1HbS1NrjgprYwhJRwErB2mITKHl0DBvVmbupgkFXnTjmba+g8O0NHiBUNrOJ/IU5wvY6tonw5/krgHlgEDVDsas/x/INPbxT+8EAAAA=[0m[Pipeline] stage
+[8mha:////4BijcKHA++LAXIV8KGQxc3ZboYyWE75NXU1Hv01HemRfAAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUQjAhpq5RFk4QmhDSRv+Xn5R24kRcjTvQUokJD5ZtyXqvNxSR4UTsRGOx9RhrL7rQuymJgbi9BhpEQxdRE0YKVig7KDK2WqqiZGFRlsNKwtpiHSh6dAk2stEPXQaNrjwnnrajhNybOzwhkxM5aU7fMjJsb72JhD/OXwCMXYJ8t5/tMD+LD/hYjrHCAAAA[0m[Pipeline] { (Run Docker Compose)
+[8mha:////4NF8hDjwSqnnyfSTaAsSm/Zg1BGM0sdT/JdPOQa+v78FAAAAqB+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUQoIFMXWNsnCC0ISQNvq//KS0EyfiatyBlkpMeLBsS9Z7vaGIDCdiJxqLrcdYe9GF3k1JDMTtNdAgGrqImjBSsELZQZGx1VIVJQuLshxWEtYW60DRo0uwkY1+6DJodOU58bQdJeTe3OEJmZzISXP6lpFhe+tNJPxx/gJg7BLku/1sh/lZfACW9ZT2wgAAAA==[0m[Pipeline] script
+[8mha:////4HGYuGIpwlVgvGkJQVLGy4jK3CT5KBHzI8+No9VRU5+bAAAAqB+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUYoABMXWNsnCC0ISQNvq//KS0EyfiatyBlkpMeLBsS9Z7vaGIDCdiJxqLrcdYe9GF3k1JDMTtNdAgGrqImjBSsELZQZGx1VIVJQuLshxWEtYW60DRo0uwkY1+6DJodOU58bQdJeTe3OEJmZzISXP6lpFhe+tNJPxx/gJg7BLku/1sh/lZfAAyQCqkwgAAAA==[0m[Pipeline] {
+[8mha:////4KoY9Lv3ps+5K5GXFcj9y+ilGeiGTY3EYkSH6qFs0l0ZAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIi0YCEqNJabniBiY1xYt0Z2yGpeBFf4w8EIlGxxWpnm3m+YJkiHDlabA11jlLjMPjeTgsHjt3F84Atn7FhSuwNSjNI1qaeUXI2MKcoYSFgZajxnBzZDGvRqruqvCJbnXKcvoOA0ukbPKAQkzmrmL8wRthce52Yfp6/AhhDhnK7+9Q+vAGvZp0gvgAAAA==[0m[Pipeline] sh
++ cd devsecops_lab/Website/compose/stage
++ docker-compose up --build -d
+Creating network "stage_default" with the default driver
+Building wordpress
+#1 [internal] load build definition from Dockerfile
+#1 sha256:a2fc6da635cc5d85794f9a82000c6c4d7d7eefcf4a27f902fccfb76f4a7863db
+#1 transferring dockerfile: 251B 0.0s done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for docker.io/library/wordpress:latest
+#2 sha256:a84339771c0953005207874d80690a5d1e6f5036e495c4ecdbc606a268c18768
+#2 DONE 0.4s
+
+#3 [internal] load .dockerignore
+#3 sha256:050c4c7b641e460754839427a87ad845d3b8deb1ff4e3056dae5c9b00a6186d6
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/1] FROM docker.io/library/wordpress:latest@sha256:9aaffa62a468c5c1a9fd89b7bf69c758f6642c1717cf2ac887ba314374efa5b6
+#4 sha256:80d574f42676b140b55e401390e64b678bc5888aacd672e88c0256fc04afdfd5
+#4 CACHED
+
+#5 exporting to image
+#5 sha256:0dec894ff4bd12ca03480b21c26afd0cfeb2b8e9429897f5207d6bba35664fca
+#5 exporting layers done
+#5 writing image sha256:e7b868ceaf9a7e3fd70f03e33427c7750169542d4da6198f9f3f7e43e9c933ec done
+#5 naming to docker.io/library/stage_wordpress:latest done
+#5 DONE 0.0s
+Creating mysql_stage ... 
+Creating mysql_stage ... done
+Creating wordpress_stage ... 
+Creating wordpress_stage ... done
+[8mha:////4J3XFXG+UnAVkt3UGQAezczGQr5dsAcpuJ6r6bAf57pTAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIi0SCEqNJabniBiY1xYt0Z2yGpeBFf4w8EIlGxxWpnm3m+YJkiHDlabA11jlLjMPjeTgsHjt3F84Atn7FhSuwNSjNI1qaeUXI2MKcoYSFgZajxnBzZDGvRqruqvCJbnXKcvoOA0ukbPKAQkzmrmL8wRthce52Yfp6/AhhDyFBu95/avQGMKkS1vgAAAA==[0m[Pipeline] }
+[8mha:////4J/MrEqFFhXWts8gHoLUf9Ok7jleiUFkoDsP1i2Jkl57AAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOKCQKJBqWgtN7zAJMY4se6C7eBUvIiv8QcsIlGxxWpnm3m9YRk81OwNdpp6S6GxOLjR5IWJfX91nLDjCzZMgZ1GqZPkVp9mlBw1zClKWAhYaWocB0smwlp06qEqp8hU5+jzdxRQ2vYOTyhENkfl4xcmD5vb2Aamn+evAKZhiFDut7l2hw9mQDtDvgAAAA==[0m[Pipeline] // script
+[8mha:////4IWiVy302htvIc82Dj3jt6NpxCfRQQ/ru5hy0XXcKR9cAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiQFQoFa3lhheYxBgn1l2wHZyKF/E1/oBFJCq2WO1sM683LIOHmr3BTlNvKTQWBzeavDCx76+OE3Z8wYYpsNModZLc6tOMkqOGOUUJCwErTY3jYMlEWItOPVTlFJnqHH3+jgJK297hCYXI5qh8/MLkYXMb28D08/wVwDQMEcr9Ntfu8AF5wm4RvgAAAA==[0m[Pipeline] }
+[8mha:////4Dpr1e9mD+emhiICQwtTLwLXFGZxA399uy+vgoQB5aKBAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiBTpEldZKwwtMbIwT687YDknFi/gaf8AiEhVbrHa2mdcb1jHAiYPBXtNgKXYWvRtNXjhxGK6OJ+z5gh1TZKex1VPLSjcLtpw0LClKWAnYaOocR0smwVb08iErJ8lU5xTydxRQWnWHJxQim5MM6QtzgN1tVJHp5/krgNn7BOW+zlUfPkGA/eC+AAAA[0m[Pipeline] // stage
+[8mha:////4GLMtIfsokt+AfybHNQzJOSfWx/aIGBr36dGb5Qerm4bAAAAph+LCAAAAAAAAP9tjTEOwjAQBC9BKWgpeYRThA5R0VpueIGJjXFi3QX7QlLxIr7GHzBEomKrnZVW83xBlSIcKDrRWew9ptaLIYwuNzFR7C+BJtHRWbSEiYIVyk6KjD0uqIgtLClKWElYW2wDJY+OYSM7fdd10OjqE8e87SWU3tzgAYXMZtaRvzBH2F5Hkwh/nr8CmAeGYsdQNs3nWL0BMYchQMEAAAA=[0m[Pipeline] stage
+[8mha:////4JtMcifeBRrp5KbPSUSaIu41ozKm5rl3uB2m1kga3PR0AAAAph+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycoh0KBtiYo2ycILQhJA0+r9NUtKJE3E17kBLJSY8WLYl673eUMUAJwqGOY2dxdha1vvRzIllCt3NU2aOrqwljOQ1EzoLUvq8VkFJw6qihA2HrcbWU7RoEuy4kw9Ze4mmvqQwb0cOpVUDPKHgMznJkL5lCrC/jyoS/jh/ATD1CcqmWeywPKsPBdk7bsIAAAA=[0m[Pipeline] { (Check Status)
+[8mha:////4HlEwAfRAbo9pwXN1NrSNdJ3MdqOkkCDC9nuNTSHBFAOAAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycoh0ACbE1DXKwglCE0La6P/yk9JOnIircQdaKjHhwbItWe/1hiIynIidaCy2HmPtRRd6NyUxELfXQINo6CJqwkjBCmUHRcZWS1WULCzKclhJWFusA0WPLsFGNvqhy6DRlefE03aUkHtzhydkciInzelbRobtrTeR8Mf5C4CxS5Dv9rMd5mfxASMfXIzCAAAA[0m[Pipeline] script
+[8mha:////4NNZqzs5DahQSZFJJqY0a+I2esQnY87NJ+B0wUkqzJZNAAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycoh0QLAgpq5RFk4QmhDSRv+Xn5R24kRcjTvQUokJD5ZtyXqvNxSR4UTsRGOx9RhrL7rQuymJgbi9BhpEQxdRE0YKVig7KDK2WqqiZGFRlsNKwtpiHSh6dAk2stEPXQaNrjwnnrajhNybOzwhkxM5aU7fMjJsb72JhD/OXwCMXYJ8t5/tMD+LD02yRsvCAAAA[0m[Pipeline] {
+[8mha:////4JU38gIzq18oB5aKt4d+l34xeHkt1gFxn0ryj8K2kS5LAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOJSIEGBqNJabniBiY1xYt0Z2yGpeBFf4w8EIlGxxWpnm3m+YJkiHDlabA11jlLjMPjeTgsHjt3F84Atn7FhSuwNSjNI1qaeUXI2MKcoYSFgZajxnBzZDGvRqruqvCJbnXKcvoOA0ukbPKAQkzmrmL8wRthce52Yfp6/AhhDhnK7+9Q+vAF9GxrMvgAAAA==[0m[Pipeline] sh
++ cd devsecops_lab/Website/compose/stage
++ docker-compose ps
+     Name                    Command               State                 Ports              
+--------------------------------------------------------------------------------------------
+mysql_stage       docker-entrypoint.sh --def ...   Up      0.0.0.0:3306->3306/tcp, 33060/tcp
+wordpress_stage   docker-entrypoint.sh apach ...   Up      0.0.0.0:80->80/tcp               
+[8mha:////4O0oqUKEa2WRSxguU6V1zOWpAJ30CV5P2MyVKhBRZgAfAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOJSICEkRJXWcsMLTGyME+vO2A5JxYv4Gn8gEImKLVY728zzBcsU4cjRYmuoc5Qah8H3dlo4cOwungds+YwNU2JvUJpBsjb1jJKzgTlFCQsBK0ON5+TIZliLVt1V5RXZ6pTj9B0ElE7f4AGFmMxZxfyFMcLm2uvE9PP8FcAYQoZyu//U7g1K83O2vgAAAA==[0m[Pipeline] }
+[8mha:////4BRVu/0LYMHgYW6nAMXr5HK4PghNc3zrQlpdx9s0zMfrAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOJSIAqEqNJabniBiY1xYt0Z2yGpeBFf4w8EIlGxxWpnm3m+YJkiHDlabA11jlLjMPjeTgsHjt3F84Atn7FhSuwNSjNI1qaeUXI2MKcoYSFgZajxnBzZDGvRqruqvCJbnXKcvoOA0ukbPKAQkzmrmL8wRthce52Yfp6/AhhDyFBu95/avQFVcSbkvgAAAA==[0m[Pipeline] // script
+[8mha:////4L0g8/uSKx6XIZRuRkr2X0mC3sPmq236qUUv19f4a92OAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOKCRDpEldZKwwtMbIwT687YDknFi/gaf8AiEhVbrHa2mdcb1jHAiYPBXtNgKXYWvRtNXjhxGK6OJ+z5gh1TZKex1VPLSjcLtpw0LClKWAnYaOocR0smwVb08iErJ8lU5xTydxRQWnWHJxQim5MM6QtzgN1tVJHp5/krgNn7BGW9z3WoP4UuiXG+AAAA[0m[Pipeline] }
+[8mha:////4A/gvl8EtV0x5yNBm7MuJ/1PaM5bgVY1TLFhC7R7cM4eAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPMIRCh2iSmul4QUmPowT687YDknFi/gaf8AiEhVbrHa2mdcb1jHAiYMRPdJgKXZWeDeavMTEYbg6nkTPF9ExRXYoWpxa1tgs2HJCWFKUsJKwQeocR0smwVb26qEqp8hU5xTyd5RQWn2HJxQym5MK6QtzgN1t1JHp5/krgNn7BOVhn6uuP4NosSS+AAAA[0m[Pipeline] // stage
+[8mha:////4JHGriTnWojZ1fmWJ62sREcJTqO7bwkczuNzW1AuF8+rAAAAph+LCAAAAAAAAP9tjTEOwjAQBM9BKWgpeYQjoXSIitZywwtMYowT6y7YF5KKF/E1/oAhEhVb7ay0mucLyhThQNHJzmLvMTVeDmF0ucmJYn8JNMmOzrIhTBSs1HbS1NrjgprYwhJRwErB2mITKHl0DBvVmbupgkFXnTjmba+g8O0NHiBUNrOJ/IU5wvY6tonw5/krgHlgEDVDUe8+x/INGmraTsEAAAA=[0m[Pipeline] stage
+[8mha:////4EFn7IlnvgnngONapJMpQlxHzWdmLjznIkhLLcSirOxzAAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUAjbE1DXKwglCE0La6P/yk9JOnIircQdaKjHhwbItWe/1hiIynIidaCy2HmPtRRd6NyUxELfXQINo6CJqwkjBCmUHRcZWS1WULCzKclhJWFusA0WPLsFGNvqhy6DRlefE03aUkHtzhydkciInzelbRobtrTeR8Mf5C4CxS5AfdrPt52fxAXzhjwPCAAAA[0m[Pipeline] { (Declarative: Post Actions)
+[8mha:////4LsfBtdTZFevNUXIIFQ5dzhptixr0wLDAElQYfYGxBsfAAAAph+LCAAAAAAAAP9tjTEOwjAUQ3+DOrAycoh0oBtiYo26cILQhJA0+r9NUtKJE3E17kBLJSY8WLYl673eUMYAJwqGO42dxdha3vvRzIlnCt3NU+aOrrwljOQ1b3RuSOnzWhtKGlYVDDYCthpbT9GiSbATTj5k5SWa6pLCvB0FMKsGeEIhZnKSIX3LFGB/H1Uk/HH+AmDqE7D6sFi9PMsPBA4E38IAAAA=[0m[Pipeline] script
+[8mha:////4KaoiKkytWY1QAjSmRCFE+U4mhQJI73RG+1XY7C5SudaAAAAph+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycoh0KRNiYo2ycILQhJA0+r9NUtKJE3E17kBLJSY8WLYl673eUMUAJwqGOY2dxdha1vvRzIllCt3NU2aOrqwljOQ1EzoLUvq8VkFJw6qihA2HrcbWU7RoEuy4kw9Ze4mmvqQwb0cOpVUDPKHgMznJkL5lCrC/jyoS/jh/ATD1CcqmWeywPKsPIshjPcIAAAA=[0m[Pipeline] {
+[8mha:////4J9442X/4FLmIajMGekbH8KQlQF03hQpvjZUBnm54vYvAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOLSAA2iSmu54QUmNsaJdWdsh6TiRXyNPxCIRMUWq51t5vmCZYpw5GixNdQ5So3D4Hs7LRw4dhfPA7Z8xoYpsTcozSBZm3pGydnAnKKEhYCVocZzcmQzrEWr7qryimx1ynH6DgJKp2/wgEJM5qxi/sIYYXPtdWL6ef4KYAwZyu3uU/vwBj0vY+u+AAAA[0m[Pipeline] sh
++ cd devsecops_lab/Website/compose/stage
++ docker-compose down
+Stopping wordpress_stage ... 
+Stopping mysql_stage     ... 
+Stopping wordpress_stage ... done
+Stopping mysql_stage     ... done
+Removing wordpress_stage ... 
+Removing mysql_stage     ... 
+Removing wordpress_stage ... done
+Removing mysql_stage     ... done
+Removing network stage_default
+[8mha:////4PlXMHEjgMHS93y04U2t1EJlaO2C5nZCHYozpMEW5cKYAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOLSgCgQVVrLDS8wsTFOrDtjOyQVL+Jr/IFAJCq2WO1sM88XLFOEI0eLraHOUWocBt/baeHAsbt4HrDlMzZMib1BaQbJ2tQzSs4G5hQlLASsDDWekyObYS1adVeVV2SrU47TdxBQOn2DBxRiMmcV8xfGCJtrrxPTz/NXAGMIGcrt/lO7N2y4ylS+AAAA[0m[Pipeline] }
+[8mha:////4N3nCAg/5mU1w68NduMxWmwbKP6UvsHckqrBUy2iKsiNAAAApB+LCAAAAAAAAP9tjTESwiAURH/iWNhaegjSpHDGsbJlaDwBJogQ5n8CRFJ5Iq/mHUQzY+UWO/u2ec8XrGOAIwXNrMLBYOwM827SZbFMYbg6yszShXWEkZxiQmVBvTotKCgpWFLVsOKwUdg5igZ1gi238i4bJ1E35xTKd+BQm36EB1S8mJMM6QtzgN1t6iPhz/NXALP3Cep2/6n2DS86m9K+AAAA[0m[Pipeline] // script
+[8mha:////4Fq0XFT1v1tmAKucM6s2RKpgCuizqZ0YdNBU5VSjwPc2AAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOJSQIMQVVrLDS8wsTFOrDtjOyQVL+Jr/IFAJCq2WO1sM88XLFOEI0eLraHOUWocBt/baeHAsbt4HrDlMzZMib1BaQbJ2tQzSs4G5hQlLASsDDWekyObYS1adVeVV2SrU47TdxBQOn2DBxRiMmcV8xfGCJtrrxPTz/NXAGMIGcrd/lPbNyl8o4e+AAAA[0m[Pipeline] }
+[8mha:////4CkEzUi+ADQFs4Y/YnBFLCxkQK6SQXzsKM8yWHwXcd/sAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOKCEFQoFa3lhheYxBgn1l2wHZyKF/E1/oBFJCq2WO1sM683LIOHmr3BTlNvKTQWBzeavDCx76+OE3Z8wYYpsNModZLc6tOMkqOGOUUJCwErTY3jYMlEWItOPVTlFJnqHH3+jgJK297hCYXI5qh8/MLkYXMb28D08/wVwDQMEcrDNtd+9wHDFtxxvgAAAA==[0m[Pipeline] // stage
+[8mha:////4Hs68Bj6+JGnNwdu4cvnQbKJN/tu2G+TJJcOMlV7uCR7AAAAox+LCAAAAAAAAP9tjTEOwjAQBDdBFLSUPMIRElSIitZKwwtMYowT6y7YF5KKF/E1/kBEJCq22plmXm8sU8SRo1ONpdZTqrzqQu+mpwaO7TXwoBq+qIopcbCqtEPJtT3NWLJYzMtyLDRWlqrAyZMTrHVjHqYIhlxxlji5g0bu6zueyPRUFhPlC2PE5tbXienX+RvA2HWCfL8VZLsPI0C0dL0AAAA=[0m[Pipeline] }
+[8mha:////4A3uZ+koYGBq/V4Mro6qMZNSm/1nNYGVKQ8Bqb6mlQnsAAAAox+LCAAAAAAAAP9tjTEOwjAQBDdBFLSUPMKRQFSIitZKwwtMYowT6y7YF5KKF/E1/kBEJCq22plmXm8sU8SRo1ONpdZTqrzqQu+mpwaO7TXwoBq+qIopcbCqtEPJtT3NWLJYzMtyLDRWlqrAyZMTrHVjHqYIhlxxlji5g0bu6zueyPRUFhPlC2PE5tbXienX+RvA2HWCfL8VZLsPUK9wrb0AAAA=[0m[Pipeline] // node
+[8mha:////4LyKWCSWqQmti5JXsWqzLdr9sNXsH+86gR8qtGbpxKXJAAAAox+LCAAAAAAAAP9tjTEOwjAQBDdBFLSUPMKRQFSIitZKwwtMYowT6y7YF5KKF/E1/kBEJCq22plmXm8sU8SRo1ONpdZTqrzqQu+mpwaO7TXwoBq+qIopcbCqtEPJtT3NWLJYzMtyLDRWlqrAyZMTrHVjHqYIhlxxlji5g0bu6zueyPRUFhPlC2PE5tbXienX+RvA2HWCfL8TZNsPdrYX570AAAA=[0m[Pipeline] End of Pipeline
+Finished: SUCCESS

@@ -1,0 +1,41 @@
+pipeline {
+    agent any
+    stages {
+        stage('Clean Workspace') {
+            steps {
+                deleteDir() 
+            }
+        }
+        stage('Checkout'){
+            steps{
+                sshagent(['SSH-Key']) {
+                    script {
+                        sh 'git --version'
+                        sh 'git clone -v git@github.com:c0893554/devsecops_lab.git'
+                    }
+                }
+            }
+        }
+        stage('Run Docker Compose') {
+            steps {
+                script {
+                    sh 'cd devsecops_lab/Website/compose/stage && docker-compose up --build -d'
+                }
+            }
+        }
+        stage('Check Status') {
+            steps {
+                script {
+                    sh 'cd devsecops_lab/Website/compose/stage && docker-compose ps'
+                }
+            }
+        }
+    }
+    post {
+        always {
+            script {
+                sh 'cd devsecops_lab/Website/compose/stage && docker-compose down'
+            }
+        }
+    }
+}

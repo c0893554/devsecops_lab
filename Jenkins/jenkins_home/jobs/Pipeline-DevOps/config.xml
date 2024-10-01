@@ -1,10 +1,93 @@
 <?xml version='1.1' encoding='UTF-8'?>
 <flow-definition plugin="workflow-job@1436.vfa_244484591f">
+  <actions>
+    <org.jenkinsci.plugins.pipeline.modeldefinition.actions.DeclarativeJobAction plugin="pipeline-model-definition@2.2214.vb_b_34b_2ea_9b_83"/>
+    <org.jenkinsci.plugins.pipeline.modeldefinition.actions.DeclarativeJobPropertyTrackerAction plugin="pipeline-model-definition@2.2214.vb_b_34b_2ea_9b_83">
+      <jobProperties/>
+      <triggers/>
+      <parameters/>
+      <options/>
+    </org.jenkinsci.plugins.pipeline.modeldefinition.actions.DeclarativeJobPropertyTrackerAction>
+  </actions>
   <description></description>
   <keepDependencies>false</keepDependencies>
   <properties/>
   <definition class="org.jenkinsci.plugins.workflow.cps.CpsFlowDefinition" plugin="workflow-cps@3969.vdc9d3a_efcc6a_">
-    <script></script>
+    <script>pipeline {
+    agent any
+    environment {
+        SONARQUBE_SERVER = &apos;SonarQube&apos;  
+        SONARQUBE_PROJECT = &apos;WordPress-Analysis&apos; 
+    }
+    stages {
+        stage(&apos;Clean Workspace&apos;) {
+            steps {
+                deleteDir() 
+            }
+        }
+        stage(&apos;Checkout&apos;){
+            steps{
+                sshagent([&apos;SSH-Key&apos;]) {
+                    script {
+                        sh &apos;git clone -v git@github.com:c0893554/devsecops_lab.git&apos;
+                    }
+                }
+            }
+        }
+        stage(&apos;Run Docker Compose&apos;) {
+            steps {
+                script {
+                    sh &apos;cd devsecops_lab/Website/compose/stage &amp;&amp; docker-compose up --build -d&apos;
+                }
+            }
+        }
+        stage(&apos;Check Status&apos;) {
+            steps {
+                script {
+                    sh &apos;cd devsecops_lab/Website/compose/stage &amp;&amp; docker-compose ps&apos;
+                }
+            }
+        }
+        stage(&apos;Extract Homepage Source Code&apos;) {
+            steps {
+                script {
+                    sh &apos;cp -r devsecops_lab/Website/compose/stage/wp-data ./wordpress-code&apos;
+                }
+            }
+        }
+        stage(&apos;SonarQube Analysis&apos;) {
+            steps {
+                withSonarQubeEnv(&apos;SonarQube&apos;) {  
+                    script {
+                        sh &apos;&apos;&apos;
+                        sonar-scanner \
+                            -Dsonar.projectKey=${SONARQUBE_PROJECT} \
+                            -Dsonar.sources=./wordpress-code \
+                            -Dsonar.host.url=${SONAR_HOST_URL} \
+                            -Dsonar.login=${SONAR_AUTH_TOKEN}
+                        &apos;&apos;&apos;
+                    }
+                }
+            }
+        }
+        stage(&apos;Quality Gate&apos;) {
+            steps {
+                timeout(time: 10, unit: &apos;MINUTES&apos;) {
+                    script {
+                        waitForQualityGate abortPipeline: true
+                    }
+                }
+            }
+        }
+    }
+    post {
+        always {
+            script {
+                sh &apos;cd devsecops_lab/Website/compose/stage &amp;&amp; docker-compose down&apos;
+            }
+        }
+    }
+}</script>
     <sandbox>true</sandbox>
   </definition>
   <triggers/>

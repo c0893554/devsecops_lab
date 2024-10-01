@@ -1,0 +1,13 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2024-10-01 02:13:40.52 UTC</timestamp>
+  <md5sum>e2573432a8dd4ce7c2eb8c42a08c0376</md5sum>
+  <fileName>Credential id=SSH-Key name=git</fileName>
+  <usages>
+    <entry>
+      <string>Pipeline-DevOps</string>
+      <ranges>50</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>
