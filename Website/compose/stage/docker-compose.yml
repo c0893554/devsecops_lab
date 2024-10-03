@@ -3,7 +3,6 @@ services:
   wordpress:
     build: 
       context: ../../Wordpress
-    platform: linux/amd64
     container_name: wordpress_stage
     ports:
       - "80:80"
@@ -19,7 +18,6 @@ services:
 
   db:
     image: mysql:5.7
-    platform: linux/amd64
     container_name: mysql_stage
     environment:
       MYSQL_ROOT_PASSWORD: ${MYSQL_ROOT_PASSWORD}
